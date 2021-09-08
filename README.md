@@ -11,3 +11,7 @@ The H-bridge is controlled by a PWM signal whose working cycle will determine th
 When the direction of rotation is 0, they are driving the transistors A and D, while if the direction is 1, they are driving the transistors B and C. 
 Because the transistors have a non-zero switching time, if during this time the PWM signal is active, four transistors could be driving so there would be a short circuit, which could damage the device. 
 This is why switching times should be taken into account when designing the PWM generator.
+
+## Important!!
+
+Unzip all files after downloading
