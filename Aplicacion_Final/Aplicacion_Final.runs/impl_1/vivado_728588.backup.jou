@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Jun 21 17:58:53 2021
+# Process ID: 728588
+# Current directory: /home/iyasnyy/Desktop/Practica_final/Aplicacion_Final/Aplicacion_Final.runs/impl_1
+# Command line: vivado -log design_1_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source design_1_wrapper.tcl -notrace
+# Log file: /home/iyasnyy/Desktop/Practica_final/Aplicacion_Final/Aplicacion_Final.runs/impl_1/design_1_wrapper.vdi
+# Journal file: /home/iyasnyy/Desktop/Practica_final/Aplicacion_Final/Aplicacion_Final.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source design_1_wrapper.tcl -notrace
